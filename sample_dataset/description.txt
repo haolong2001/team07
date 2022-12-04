@@ -1,0 +1,3 @@
+Sample generated images and masks. 
+
+Original data can be found: https://github.com/uwm-bigdata/wound-segmentation/tree/master/data/wound_dataset
