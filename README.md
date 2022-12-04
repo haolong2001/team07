@@ -1,7 +1,7 @@
 # team07
 Generative augmentation methods for more robust wound segmentation models.
 
-Our aim: To use generative methods to reduce inherent biases in data
+Our aim: To use generative methods to reduce inherent biases in data and improve generalisability of models
 
 Demo notebooks/scripts are provided, implementing two generative networks (pix2pix and Augmented CycleGAN). These networks are used to generate synthetic wound images, with tune-able latent spaces for controlling wound attributes.
 
